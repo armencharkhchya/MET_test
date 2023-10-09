@@ -10,7 +10,7 @@ jQuery(document).on('ready', function() {
 	$('.owl-carousel').owlCarousel({
 		center: true,
 		loop:true,
-		margin:10,
+		margin: -250,
 		nav: false,
 		responsive:{
 			0:{
